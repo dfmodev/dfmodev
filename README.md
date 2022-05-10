@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **some Linux stuff. Not Wikipedia.**
 
-- 📫 How to reach me **dfmodev@protonme or dfmodev@protonmail.com**
+- 📫 How to reach me **dfmodev@proton.me or dfmodev@protonmail.com**
 
 - ⚡ Fun fact **2 * 2 = 4**
 
