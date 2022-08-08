@@ -5,9 +5,9 @@
 
 - 🔭 I’m currently working on **a place were I show all the apps I use.**
 
-- 🌱 I’m currently learning **Java, C, Programming as a course (concepts) and maybe some CSS.**
+- 🌱 I’m currently learning **Java.**
 
-- 👯 I’m looking to collaborate on **many FOSS projects such as Librewolf.**
+- 👯 I’m looking to collaborate on **many FOSS projects such as Firefox.**
 
 - 📝 I write articles on [https://dfmodev.github.io/blog](https://dfmodev.github.io/blog)
 
